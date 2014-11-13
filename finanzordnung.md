@@ -86,7 +86,7 @@ Der Entwurf des Haushaltsplanes ist rechtzeitig vor Beginn des Haushaltsjahres d
 Der Haushaltsplan wird durch das jeweilige Organ mit 2/3-Mehrheit der anwesenden Mitglieder festgestellt. Kommt es nicht zu einer 2/3-Mehrheit, so ist der Haushaltsplan so lange neu zu beraten, bis eine 2/3-Mehrheit erreicht wird.
 
 ### §12 Recht auf Einsichtnahme
-(1) Die Haushaltspläne sind hochschulintern zu veröffentlichen. Jedes Mitglied der Studierendenschaft hat das Recht, Einsicht in die Haushaltspläne des Studierendenrates und der Referate zu nehmen.
+(1) Die Haushaltspläne sind mindestens hochschulintern zu veröffentlichen. Jedes Mitglied der Studierendenschaft hat das Recht, Einsicht in die Haushaltspläne des Studierendenrates und der Referate zu nehmen.
 
 (2) Jedes Mitglied einer jeweiligen Fachschaft und der Studierendenrat haben das Recht, Einsicht in den Haushaltsplan des entsprechenden Fachschaftsrates zu nehmen.
 
